@@ -1,0 +1,526 @@
+fileFormatVersion: 2
+guid: 623e3a73251982a4a94cb8d166bbf99a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2298468053232617703
+    second: chrFermy_0
+  - first:
+      213: 4918848481689640705
+    second: chrFermy_1
+  - first:
+      213: 416113850443461726
+    second: chrFermy_2
+  - first:
+      213: -1372046715083786525
+    second: chrFermy_3
+  - first:
+      213: -4561986008327896592
+    second: chrFermy_4
+  - first:
+      213: -5818475116155862845
+    second: chrFermy_5
+  - first:
+      213: -2682340638561429489
+    second: chrFermy_6
+  - first:
+      213: -5764572988221387471
+    second: chrFermy_7
+  - first:
+      213: 6707058689050919551
+    second: chrFermy_8
+  - first:
+      213: 160612410423064414
+    second: chrFermy_9
+  - first:
+      213: 2208783488252488310
+    second: chrFermy_10
+  - first:
+      213: 5408214444831676912
+    second: chrFermy_11
+  - first:
+      213: 5520017238600029532
+    second: sprRastrillo
+  - first:
+      213: -2260466717825208727
+    second: chrFermy_0
+  - first:
+      213: -5176599274726818484
+    second: chrFermy_1
+  - first:
+      213: 9128235963399250155
+    second: chrFermy_2
+  - first:
+      213: 989223790185014783
+    second: chrFermy_3
+  - first:
+      213: -5409694076617735226
+    second: chrFermy_4
+  - first:
+      213: -6354204931837486698
+    second: chrFermy_5
+  - first:
+      213: 7723320220739915314
+    second: chrFermy_6
+  - first:
+      213: -2385999083733254142
+    second: chrFermy_7
+  - first:
+      213: 1240068756427459085
+    second: chrFermy_8
+  - first:
+      213: -4423528826288508257
+    second: chrFermy_9
+  - first:
+      213: -8322171359578738660
+    second: chrFermy_10
+  - first:
+      213: 8747428201492789612
+    second: chrFermy_11
+  - first:
+      213: -8157705768566708380
+    second: sprRastrillo
+  - first:
+      213: -8157705768566708380
+    second: sprRastrillo
+  - first:
+      213: -3402650253895104091
+    second: sprRastrilloGlow
+  - first:
+      213: -8157705768566708380
+    second: sprRastrillo
+  - first:
+      213: -143287690460610602
+    second: sprRastrilloGlow
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chrFermy_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 51
+        width: 22
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e6f612f7531a0e0800000000000000
+      internalID: -2260466717825208727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chrFermy_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 51
+        width: 21
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dfc5de2660928b0800000000000000
+      internalID: -5176599274726818484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chrFermy_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 51
+        width: 22
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0ab58ce320eae70800000000000000
+      internalID: 9128235963399250155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chrFermy_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 53
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5e759cbcd6abd00800000000000000
+      internalID: 989223790185014783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chrFermy_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 53
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c34aab26e7ece4b0800000000000000
+      internalID: -5409694076617735226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chrFermy_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 51
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6999acfc74451d7a0800000000000000
+      internalID: -6354204931837486698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chrFermy_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 51
+        width: 21
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e4bc322debe2b60800000000000000
+      internalID: 7723320220739915314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chrFermy_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3
+        width: 21
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2000ca3997a33eed0800000000000000
+      internalID: -2385999083733254142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chrFermy_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3
+        width: 21
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a4bebb6fb953110800000000000000
+      internalID: 1240068756427459085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chrFermy_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 3
+        width: 27
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f927f5728f77c92c0800000000000000
+      internalID: -4423528826288508257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chrFermy_10
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 5
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c103160cd35b18c80800000000000000
+      internalID: -8322171359578738660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chrFermy_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 5
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6936387a9b156970800000000000000
+      internalID: 8747428201492789612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprRastrillo
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 20
+        width: 32
+        height: 9
+      alignment: 9
+      pivot: {x: 0.4081173, y: 0.48639762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4672d6a23d10ace80800000000000000
+      internalID: -8157705768566708380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprRastrilloGlow
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 18
+        width: 36
+        height: 13
+      alignment: 9
+      pivot: {x: 0.41224402, y: 0.49439952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfb86dca90f20ef0800000000000000
+      internalID: -143287690460610602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

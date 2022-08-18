@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7c949a2bb9ad1174a866b7f4d6dc8d83
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - goHitterTomate: {instanceID: 0}
+  - goCorazon: {fileID: 8606501655572252918, guid: 25440048a6c627041aa7dab7eab2588c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
